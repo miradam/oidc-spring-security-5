@@ -1,5 +1,6 @@
 # oidc-spring-security-5
 A demo application show casing usage of OpenID Connect with Spring security without need of external libraries
+https://dev.to/shyamala_u/spring-boot--spring-security-5--oauth2oidc-client---basics-4ibo
 
 # Default redirect uri by spring security is 
 http://localhost:8080/login/oauth2/code/<<spring.security.oauth2.client.registration.provider>>
